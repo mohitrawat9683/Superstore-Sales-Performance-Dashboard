@@ -56,19 +56,10 @@ The goal is to transform raw sales data into meaningful visual insights that can
 
 ```text
 Superstore-Sales-Analysis/
-│
-├── Dashboard/
-│   ├── Superstore_Dashboard.pbix
-│   └── Dashboard_Screenshot.png
-│
-├── Dataset/
-│   └── Superstore_Dataset.xlsx
-│
-├── Documentation/
-│   ├── Business_Insights.md
-│   └── DAX_Measures.md
-│
-└── README.md
+│── README.md
+│───Superstore_Dashboard.pbix
+│───Dashboard_Screenshot.png
+├── Dataset/Superstore_Dataset.xlsx
 ```
 
 ## 🚀 How to Use This Project
