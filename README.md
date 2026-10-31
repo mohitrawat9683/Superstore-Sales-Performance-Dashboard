@@ -15,7 +15,7 @@ The goal is to transform raw sales data into meaningful visual insights that can
 
 ## 📷 Dashboard Preview
 
-![Superstore Sales Dashboard]()
+![Superstore Sales Dashboard](Superstore Sales Performance Dashboard.png)
 
 ## 📈 Dashboard Features
 
